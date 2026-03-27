@@ -1,0 +1,19 @@
+{
+    "home": {
+      "title": "Professional Online Medical Consultation Platform",
+      "subtitle": "Connect professional doctors with patients, providing convenient and efficient medical consultation services",
+      "feature1": "Professional Doctor Team",
+      "feature2": "Real-time Online Consultation",
+      "feature3": "Privacy & Security Protection",
+      "consultNow": "Consult Now",
+      "viewDoctors": "View Doctors",
+      "totalDoctors": "Professional Doctors",
+      "totalQuestions": "Total Questions",
+      "activeSessions": "Pending Questions",
+      "totalSessions": "Online Clinics",
+      "activeRooms": "Open Clinics",
+      "roomSubtitle": "The following doctor clinics are open, welcome to consult",
+      "online": "Online",
+      "enterRoom": "Enter Clinic"
+    }
+  }
